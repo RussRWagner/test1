@@ -13,7 +13,7 @@
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,400i,700,700i&display=swap');
 
 body {
-  background: url("images/backgrounds/basic.png") no-repeat center center fixed;
+  background: url("../../images/backgrounds/basic.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
